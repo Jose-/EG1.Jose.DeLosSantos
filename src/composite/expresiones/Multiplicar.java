@@ -10,7 +10,6 @@ public class Multiplicar extends Expresion {
 
 	@Override
 	public int operar() {
-		// TODO Auto-generated method stub
 		return (this.val1.valor * this.val2.valor);
 	}
 
