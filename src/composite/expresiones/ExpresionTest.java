@@ -1,9 +1,5 @@
 package composite.expresiones;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
 public class ExpresionTest {
 	@Test
 	public void simple() {
